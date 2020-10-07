@@ -1,5 +1,7 @@
 # format-paragraph: A Japanese Paragraph Formatter
 
+![](./screenshot.gif)
+
 ## Example
 - Original text:
   ```txt
